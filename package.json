@@ -1,0 +1,20 @@
+{
+  "name": "uppgift_ett",
+  "version": "1.0.0",
+  "description": "uppgift 1 (learning mean stack)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "author": "Dzmitry",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "*",
+    "cors": "^2.8.5",
+    "express": "*",
+    "minimist": "^1.2.5",
+    "mongoose": "*",
+    "nodemon": "*"
+  }
+}
